@@ -1,0 +1,2 @@
+- Q: Discuss the shape of the histograms in terms of the number of samples.
+- A: As sample sizes increases, the sampling distributions gets closer to the ideal distribution.
